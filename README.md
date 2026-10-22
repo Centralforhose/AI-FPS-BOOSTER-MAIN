@@ -5,23 +5,12 @@ RELEASE 3.7 · SMART GAME OPTIMIZATION
 
 LESS LAG. MORE FRAMES. SAME VISUALS.
 
-<img src="https://img.shields.io/badge/RELEASE-v3.7-7CFFB2?style=for-the-badge&labelColor=10131A" alt="Release 3.7" />
-<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-7DD3FC?style=for-the-badge&labelColor=10131A" alt="Windows" />
-<img src="https://img.shields.io/badge/FOCUS-FPS%20%2B%20STABILITY-C4B5FD?style=for-the-badge&labelColor=10131A" alt="FPS and stability" />
-<img src="https://img.shields.io/badge/VISUALS-KEEP%20YOUR%20SETTINGS-FFB86C?style=for-the-badge&labelColor=10131A" alt="Visuals preserved" />
-
-<br />
+!Release !Platform !Focus !Visuals
 
 ⬇ DOWNLOAD v3.7 · ✦ FEATURES
 
-<br />
-
-<img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=85" alt="Gaming setup and esports arena" width="90%" />
-
-<br />
-
 ╔══════════════════════════════════════════════════════╗
-║                 AI FPS BOOSTER                      ║
+║                  AI FPS BOOSTER                     ║
 ║                                                      ║
 ║   STATUS    : RELEASE 3.7                            ║
 ║   PLATFORM  : WINDOWS                                ║
@@ -65,28 +54,15 @@ Feature	Description
 🚀 Simple Installation	Download, extract, launch, and follow the application instructions.
 🔄 Release 3.7	The release version of AI FPS Booster.
 FPS GOALS
-
-<blockquote>
-
 30–60 FPS MORE? THAT'S THE GOAL. ⚡
 
 AI FPS Booster targets meaningful performance improvements, with potential gains of 30–60 FPS in favorable scenarios where the available optimizations address a real bottleneck.
 
 Actual gains depend on your hardware, game, drivers, temperatures, and current settings. This is a performance target, not a guaranteed result for every game or PC.
 
-</blockquote>
-
 03 / 🎮 SUPPORTED GAMES
 
 Designed for a broad range of PC gaming experiences — from competitive shooters to open-world adventures.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/COUNTER--STRIKE%202-FPS%20MODE-10131A?style=for-the-badge&logo=counterstrike&logoColor=7CFFB2" alt="Counter-Strike 2" />
-<img src="https://img.shields.io/badge/VALORANT-READY%20TO%20PLAY-10131A?style=for-the-badge&logo=valorant&logoColor=FF4655" alt="Valorant" />
-<img src="https://img.shields.io/badge/FORTNITE-LET'S%20GO-10131A?style=for-the-badge&logo=fortnite&logoColor=7DD3FC" alt="Fortnite" />
-
-</div>
 
 Competitive shooters
 Counter-Strike 2
@@ -114,8 +90,6 @@ Compatibility depends on the optimization methods included in the release. Indiv
 04 / ⬇ INSTALLATION
 Three steps. Then it's game time.
 
-<box>
-
 01 — DOWNLOAD
 
 Get the AI FPS Booster release archive using the link below.
@@ -129,8 +103,6 @@ Unpack the downloaded archive into a folder on your Windows PC.
 03 — LAUNCH
 
 Open the extracted folder, run the included application, and follow its instructions.
-
-</box>
 
      DOWNLOAD
          │
@@ -148,14 +120,7 @@ Open the extracted folder, run the included application, and follow its instruct
 
 ⚠️ Only run files from sources you trust. If Windows or your antivirus displays a warning, verify the file and its origin before proceeding.
 05 / 🎨 NO POTATO GRAPHICS
-
-<div align="center">
-
 YOUR GAME SHOULD STILL LOOK LIKE YOUR GAME.
-
-<img src="https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1200&q=85" alt="Gaming PC with colorful lighting" width="85%" />
-
-</div>
 
 AI FPS Booster follows a simple philosophy: optimize performance without deliberately lowering your visual settings.
 
@@ -170,9 +135,6 @@ No fake promise that every bottleneck can be removed. Some games are limited by 
 The goal is to identify opportunities for better performance while preserving the experience you chose.
 
 06 / 💀 GAMER MOMENT
-
-<div align="center">
-
 WHEN THE GAME DROPS TO 12 FPS MID-FIGHT
 ME:       "I GOT THIS."
 MY PC:    "nah bro 💀"
@@ -181,8 +143,6 @@ MY FPS:   12
 
 
 The real final boss was the frame time all along.
-
-</div>
 
 07 / 📊 GET THE MOST OUT OF YOUR PC
 
@@ -208,7 +168,7 @@ All game names and trademarks belong to their respective owners. AI FPS Booster 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20FPS%20BOOSTER-RELEASE%203.7-7CFFB2?style=for-the-badge&labelColor=10131A" alt="AI FPS Booster Release 3.7" />
+!AI FPS Booster Release 3.7
 
 OPTIMIZE SMART. KEEP YOUR VISUALS.
 
