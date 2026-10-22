@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>RELEASE 3.7 · ADVANCED WINDOWS OPTIMIZATION</strong>
+  <strong> ADVANCED WINDOWS OPTIMIZATION</strong>
   <br>
   <em>Higher performance. Smoother gameplay. No intentional graphics downgrade.</em>
 </p>
@@ -39,33 +39,23 @@ Built for gamers who want to get more out of their hardware without intentionall
 
 ## `02 / FEATURES`
 
-- ⚡ **FPS Optimization** — Apply performance-focused system adjustments.
-- 🎯 **Gameplay Stability** — Aim to reduce unnecessary background overhead.
-- 🖥️ **Windows Optimization** — Tune selected system settings for gaming.
-- 🚀 **Quick Setup** — A straightforward installation and optimization process.
-- 🛡️ **User Control** — Review optimization options before applying changes.
-- 🎮 **Gaming Focused** — Designed with popular PC games in mind.
+- **FPS Optimization** — Apply performance-focused system adjustments.
+- **Gameplay Stability** — Aim to reduce unnecessary background overhead.
+- **Windows Optimization** — Tune selected system settings for gaming.
+- **Quick Setup** — A straightforward installation and optimization process.
+- **User Control** — Review optimization options before applying changes.
+- **Gaming Focused** — Designed with popular PC games in mind.
 
 
 ## `03 / SUPPORTED GAMES`
 
-Designed with a broad range of popular PC gaming experiences in mind.
-
 <div align="center">
-
-**COMPETITIVE FPS**
 
 `Counter-Strike 2` · `VALORANT` · `Overwatch 2` · `Rainbow Six Siege` · `THE FINALS`
 
-**BATTLE ROYALE**
-
 `Fortnite` · `Apex Legends` · `Call of Duty: Warzone` · `PUBG: Battlegrounds`
 
-**OPEN WORLD & SANDBOX**
-
 `GTA V` · `Minecraft` · `Cyberpunk 2077` · `Rust` · `Elden Ring`
-
-**RACING & MORE**
 
 `Forza Horizon 5` · `Rocket League` · `Destiny 2` · `& MORE`
 
